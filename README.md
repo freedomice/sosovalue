@@ -1,0 +1,2 @@
+# sosovalue
+基于morelogin环境的sosovalue项目的每日签到任务
